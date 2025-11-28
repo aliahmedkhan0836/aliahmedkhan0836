@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Badar! 👋
+# Hi there, I'm Ali Ahmed Khan! 👋
 
 ## 🚀 Python Automation Specialist | Web Scraping Expert
 
@@ -39,4 +39,3 @@ I'm a Computer Science student passionate about building automation solutions th
 
 ---
 ⚡ *"Automating the boring stuff, one script at a time"*
-```
